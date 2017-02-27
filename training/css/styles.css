@@ -23,3 +23,11 @@
 		text-align: left;
 	}
 }
+
+.form-inline {
+	text-align: center;
+}
+
+.navbar-default {
+	border: none;
+}
